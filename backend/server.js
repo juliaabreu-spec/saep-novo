@@ -1,6 +1,6 @@
 /*
 PROJETO: SAEPVision
-ALUNA: Efraim dos Santos Nascimento
+ALUNA: Julia Abreu
 CURSO: Técnico em Informática para Internet
 INSTITUIÇÃO: SENAI
 */
