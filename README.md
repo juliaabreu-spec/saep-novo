@@ -6,7 +6,7 @@ O **SAEPVision** é uma plataforma web desenvolvida para compartilhar fotografia
 
 ## 👩‍💻 Desenvolvedora
 
-- **Nome:** Efraim dos Santos Nascimento
+- **Nome:** Júlia Souza Abreu
 - **Curso:** Técnico em Informática para Internet
 - **Instituição:** SENAI
 
